@@ -12,21 +12,30 @@ I've asked ChatGPT to give me 50 Questions and i will solve them.
 
 
 -- These questions cover a variety of SQL concepts, including SELECT statements, filtering, joining tables, 
--- and aggregate functions. Feel free to use these questions to practice and enhance your SQL skills:
+-- and aggregate functions.
 
---------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 -- 1-10: General SELECT Queries
 --------------------------------------------------------------------------------------------------------------------------------
 
 -- 1.Retrieve all columns for all records in the "books" table.
+
 -- 2.Retrieve the names of all members from the "members" table.
--- 3.Display the titles and authors of books with the genre "Science Fiction."
+
+-- 3.Display the titles and authors of books with the genre "Science Fiction".
+
 -- 4.Retrieve the contact numbers of members with a "Premium" membership.
+
 -- 5.Get the total number of records in the "loans" table.
+
 -- 6.Retrieve the distinct genres present in the "books" table.
+
 -- 7.Display the names and membership types of members with IDs between 1 and 10.
+
 -- 8.Retrieve the book titles and return dates for loans with a return date after '2024-01-01.'
+
 -- 9.Display the names of members who borrowed books in 2023.
+
 -- 10.Retrieve the IDs and titles of books that are not available.
 
 
