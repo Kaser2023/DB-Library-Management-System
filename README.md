@@ -4,6 +4,8 @@ I've asked ChatGPT to give me 50 Questions and i will solve them.
 
 # I've approximately solve 45 questions by myself
 
+# You can upload the CSV's files to your DBMS for the 3-three tables.
+
 
 # The solutions for  all 50 these questions on the file [[ lmsQuery.sql  ]]
  You may solve them before see the soltuions -> it's your choice :)
